@@ -1,1 +1,38 @@
-# UrbanCart Retail Shop Analytics — SQL Project ## Project Overview A retail analytics project using PostgreSQL to analyse 1,200 orders, 100 customers, 41 products across 10 cities in Bangladesh. ## Business Questions Answered (Q1–Q25) - Revenue analysis by city, category, and product - Customer behavior and purchasing patterns - Payment method preferences - Stock risk analysis - Order completion and cancellation rates ## Tools Used - PostgreSQL (pgAdmin 4) - Microsoft Excel (charts) - Canva (presentation) ## Database Schema 5 tables: FactOrders, FactOrderItems, DimCustomers, DimProducts, FactPayment ## Key Findings - Total Revenue: BDT 22,45,122 - Top City: Barishal (173 orders) - Top Product: Power Bank 10000mAh (BDT 304,000) - Completion Rate: 59.4% - Top Payment: Cash on Delivery (488 orders) ## Files | File | Description | |------|-------------| | urbancart_queries.sql | All 25 SQL queries | | UrbanCart_Presentation.pdf | Slides with results | | SQL_Queries_Documentation.pdf | Detailed query doc | | er_diagram.png | Database schema diagram |
+# Urban Cart: Retail Shop Analytics
+
+### 📊 Project Overview
+Urban Cart is an end-to-end retail analytics project designed to extract actionable business insights from raw transactional data. This project showcases the ability to design relational database schemas, execute complex SQL queries, and derive key performance indicators (KPIs) to drive business decisions.
+
+### 🚀 Key Project Highlights
+This analysis covers 25+ SQL queries targeting critical business areas:
+* **Sales Performance:** Monthly revenue trends and category-wise profitability.
+* **Customer Behavior:** Purchasing patterns, segmentation, and order frequency.
+* **Operational Efficiency:** Order completion rates, cancellation analysis, and AOV.
+* **Inventory Management:** Identifying critical stock-out risks.
+* **Payment Analysis:** User preferences for payment methods.
+
+### 🏗️ Data Model
+The database is built on a PostgreSQL relational model. Below is the Entity Relationship Diagram (ERD) visualizing the schema:
+
+![Database ER Diagram](ER_Diagram.jpg)
+
+### 🛠️ Technologies Used
+* **Database:** PostgreSQL & pgAdmin 4
+* **Query Language:** SQL
+* **Analysis:** Excel & Power BI
+
+### 📂 Repository Structure
+* `urbancart_queries.sql.sql`: The complete library of 25+ SQL scripts.
+* `UrbanCartPresentation.pdf`: Business insight deck summarizing the project findings.
+* `SQL Queries Documentation.pdf`: Technical documentation for each query logic.
+* `ER_Diagram.jpg`: Database relationship schema.
+
+### 👩‍💻 About the Author
+**Ankita Islam**
+*Role: L&D Officer | Data Enthusiast*
+
+As a professional in the Learning & Development field, I believe that data literacy is a vital skill for the future of business leadership. This project bridges my background in HR and organizational development with technical data expertise.
+
+---
+**Connect with me:**
+[Add your LinkedIn Link Here]
