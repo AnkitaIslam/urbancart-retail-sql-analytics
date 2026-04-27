@@ -36,7 +36,9 @@ SQL Queries Documentation.pdf: Technical documentation for each query logic.
 ER Diagram.jpg: Database relationship schema.
 
 👩‍💻 About the Author
+
 Ankita Islam
+
 Role: L&D Officer | Data Enthusiast
 
 As a professional in the Learning & Development field, I believe that data literacy is a vital skill for the future of business leadership. This project bridges my background in HR and organizational development with technical data expertise.
