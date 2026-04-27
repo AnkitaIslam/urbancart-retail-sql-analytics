@@ -26,13 +26,12 @@ Query Language: SQL
 Analysis: Excel & Power BI
 
 📂 Repository Structure
-urbancart_queries_1 (1).sql: The complete library of 25+ SQL scripts.
+urbancart_queries.sql.sql: The complete library of 25+ SQL scripts.
 
 UrbanCart_Presentation.pdf: Business insight deck summarizing the project findings.
 
-SQL Quries Documentation.pdf: Technical documentation for each query logic.
-
-IMG-20260427-WA0000.jpg: Database relationship schema.
+SQL Queries Documentation.pdf: Technical documentation for each query logic.
+ER Diagram.jpg: Database relationship schema.
 
 👩‍💻 About the Author
 Ankita Islam
